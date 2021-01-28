@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TEMP.DESKTOP-BRADEN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TEMP.DESKTOP-BRADEN\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
